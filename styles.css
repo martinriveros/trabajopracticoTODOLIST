@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.formAgregar{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.contTarea{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.tarea{
+  width:300px;
+  flex-basis: auto;
+  justify-content: flex-start;
+}
